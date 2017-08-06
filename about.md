@@ -16,18 +16,20 @@ permalink: /about/
 
 ## Roles
 
-Founder, ABC Organisation
+**Secretary(Former)**, Berkeley Energy and Resources Cooperative - China Focus Group
 
-## Skills
+**Project Leader(Former)**, Spring Foundation at UC Berkeley
 
-* **Skill 1** - `Skill` / `Skill` / `Skill` / `Skill`
-* **Skill 2** - `Skill` / `Skill` / `Skill` / `Skill` / `Skill` / `Skill` / `Skill`
-* **Skill 3** - `Skill` / `Skill` / `Skill`
-* **Skill 4** - `Skill` / `Skill` / `Skill` 
-* **Skill 5** - `Skill`
-* **Skill 6** - `Skill` / `Skill` 
-    
-    
+## Technical Skills
+
+* **Programming Language** - `Java` / `Python` / `C/C++` / `Swift` 
+* **Front End** - `HTML` / `Javascript` / `SASS/CSS` / `Node.js` / `Jekyll`
+* **Cloud Computing** - `Amazon AWS` / `Lamada` / `DynamoDB`
+* **Machine Learning** - `Caffe` / `Tensorflow` / `Keras` / `mxnet` / `OpenCV`
+* **Database and Data Analysis** - `MySQL` / `SQLite` / `R` / `MATLAB`
+
+<!---
+These are comment out
 ## Achievements
 
 
@@ -47,7 +49,4 @@ Founder, ABC Organisation
 
    Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula
 
-
-## Contact me
-
-[agarwal.akshay.akshay8@gmail.com](mailto:agarwal.akshay.akshay8@gmail.com)
+--->
