@@ -8,7 +8,7 @@ permalink: /about/
   Sciences Major. 
   
   My personal interests are in Green Tech, Artifitial Intelligence, Deep Learning and
-  Human-Computer Interaction! Other than that, I love reading detective and high fantacy stories. I enjoy
+  Human-Computer Interaction! Other than that, I love reading detective and high fantasy stories. I enjoy
   hiking, swimming and snorkeling (**I LOVE THAT!!!**) and all sorts of outdoor activities.
 
 ## Education
