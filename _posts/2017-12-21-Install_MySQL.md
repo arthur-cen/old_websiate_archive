@@ -3,7 +3,7 @@ layout: post
 title: Setup MySQL database on Mac OSX
 author: Shengrui Cen
 ---
-
+In this blog post, I recorded my process of setting up MySQL database on Mac OSX, which is pretty straight forward and easy.
 ## Install MySQL database via Homebrew
 
 1. Get most recent commit of `gc_game` from remote
